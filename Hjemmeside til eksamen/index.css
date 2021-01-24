@@ -3,6 +3,11 @@
     box-sizing: border-box;
  }
 
+ .topnav div {
+  -ms-flex: 1;  /* IE 10 */
+  flex: 1;
+}
+
  body {
     margin: 0;
  }
