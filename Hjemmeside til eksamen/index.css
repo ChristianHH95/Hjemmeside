@@ -15,12 +15,13 @@
 .topnav a {
    color: white;
    letter-spacing: 2px;
-   text-decoration: none;
+   text-decoration: underline;
    background: black;
    padding: 15px;
-   display: inline-block;
+   display: block;
    width: 100%;
    text-align: center;
+   text-align-last: center;
 }
 
 a:hover {
