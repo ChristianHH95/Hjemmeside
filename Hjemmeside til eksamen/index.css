@@ -9,7 +9,7 @@
 }
 
  body {
-    margin: 0;
+    margin: 5px;
  }
 
 .topnav a {
@@ -30,6 +30,7 @@ a:hover {
 
 .topnav {
    max-width: none;
+
 
 }
 
